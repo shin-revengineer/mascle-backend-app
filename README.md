@@ -1,4 +1,4 @@
-# mascle-backend-app
+# muscle-backend-app
 筋トレ管理アプリのバックエンドソース管理
 
 ## ローカル環境

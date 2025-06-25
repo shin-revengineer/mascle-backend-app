@@ -1,13 +1,13 @@
-package revengineer.mascle_backend_app;
+package revengineer.muscle_backend_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MascleBackendAppApplication {
+public class MuscleBackendAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MascleBackendAppApplication.class, args);
+		SpringApplication.run(MuscleBackendAppApplication.class, args);
 	}
 
 }

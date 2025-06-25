@@ -1,10 +1,10 @@
-package revengineer.mascle_backend_app.controller;
+package revengineer.muscle_backend_app.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import revengineer.mascle_backend_app.entity.User;
-import revengineer.mascle_backend_app.repository.UserRepository;
+import revengineer.muscle_backend_app.entity.User;
+import revengineer.muscle_backend_app.repository.UserRepository;
 
 import java.util.List;
 

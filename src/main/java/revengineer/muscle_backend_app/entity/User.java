@@ -1,4 +1,4 @@
-package revengineer.mascle_backend_app.entity;
+package revengineer.muscle_backend_app.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
